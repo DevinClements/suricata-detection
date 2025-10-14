@@ -26,9 +26,6 @@ Below are key screenshots captured during the Suricata lab deployment and valida
 ![Caldera Timeline](screenshots/caldera_timeline.png)
 
 
-## 🔗 GitHub Repository
-➡️ [View on GitHub](https://github.com/DevinClements/suricata-detection)
-
 ## 🛠️ Environment
 - **Interface**: `ens160`
 - **Container**: `jasonish/suricata:latest`
